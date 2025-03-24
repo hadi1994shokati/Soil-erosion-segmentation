@@ -11,7 +11,7 @@ To run the code, ensure you have the following dependencies installed:
 * PyTorch 2.0+
 * NumPy
 * OpenCV
-
+* Additional libraries as listed in [requirements.txt](https://github.com/hadi1994shokati/Soil-erosion-segmentation/blob/main/requirements.txt)
 
 # How to use the code?
 
