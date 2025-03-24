@@ -1,4 +1,4 @@
-# Soil-erosion-segmentation
+# Description
 This repository provides a foundational implementation for detecting soil erosion and deposition traces in high-resolution aerial imagery. Developed as part of our study, [Erosion-SAM: Semantic Segmentation of Soil Erosion by Water](https://doi.org/10.1016/j.catena.2025.108954) (CATENA, 2025), this code fine-tunes the Segment Anything Model (SAM) specifically for erosion analysis, introducing Erosion-SAM.
 
 The data set comprised 405 manually segmented agricultural fields from erosion-prone areas for bare cropland, vegetated cropland, and grassland. 
