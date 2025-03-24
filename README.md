@@ -12,9 +12,9 @@ In our paper, to address the variability in the sizes of agricultural fields, we
 1. Uniform Resizing: This method involves resizing all field images to 256 × 256 pixels before inputting them into the model.
 2. Image Cropping: In this approach, the training images are divided into multiple 256 × 256 image patches with a step size of 256 pixels.
    
-Subsequent to pre-processing, the results were compared to the baseline SAM. For execution:
+After pre-processing, the results were compared to the baseline SAM. For execution:
 
-To employ the Uniform Resizing approach, please run the resizing.py script.
+To employ the Uniform Resizing approach, please run the [Resizing.py](https://github.com/hadi1994shokati/Soil-erosion-segmentation/blob/main/Resizing.py) script.
 
 To utilize the Image Cropping approach, please run the cropping.py script.
 
