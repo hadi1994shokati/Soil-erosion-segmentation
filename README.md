@@ -16,7 +16,7 @@ After pre-processing, the results were compared to the baseline SAM. For executi
 
 To employ the Uniform Resizing approach, please run the [Resizing.py](https://github.com/hadi1994shokati/Soil-erosion-segmentation/blob/main/Resizing.py) script.
 
-To utilize the Image Cropping approach, please run the cropping.py script.
+To utilize the Image Cropping approach, please run the [cropping.py](https://github.com/hadi1994shokati/Soil-erosion-segmentation/blob/main/Cropping.py) script.
 
 Note: The input images and their corresponding segmentation masks are subject to licensing restrictions. If you do not have access to a licensed dataset, please contact the [corresponding author](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/geowissenschaften/arbeitsgruppen/geographie/forschungsbereich/bodenkunde-und-geomorphologie/work-group/people-main-pages/doctoral-students/hadi-shokati/) at hadi.shokati@uni-tuebingen.de.
 
