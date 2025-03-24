@@ -9,7 +9,9 @@ The implementation is developed in Python and leverages the PyTorch framework.
 # How to use the code?
 
 In our paper, to address the variability in the sizes of agricultural fields, we considered two methods of pre-processing to standardize the image sizes for the model:
+
 **1. Uniform Resizing:** This method involves resizing all field images to 256 × 256 pixels before inputting them into the model.
+
 **2. Image Cropping:** In this approach, the training images are divided into multiple 256 × 256 image patches with a step size of 256 pixels.
    
 After pre-processing, the results were compared to the baseline SAM. For execution:
